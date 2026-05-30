@@ -1,0 +1,32 @@
+## Dataset
+
+The dataset used in this project is not included in the repository due to size and distribution restrictions.
+
+To run this project:
+
+1. Download the Credit Card Fraud Detection dataset from Kaggle.
+2. Save the dataset file in the project directory.
+3. Rename the dataset file to:
+
+```text
+cdd.csv
+```
+
+Dataset Link:
+
+https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+
+Expected Target Column:
+
+```text
+Class
+```
+
+Where:
+
+```text
+0 → Legitimate Transaction
+1 → Fraudulent Transaction
+```
+
+After placing the dataset in the project directory, the notebook can be executed without further modifications.
