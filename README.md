@@ -22,6 +22,15 @@ The objective of this project is to:
 - Build an interactive fraud prediction system.
 
 ---
+## Project Structure
+```text
+Credit-Card-Fraud-Detection/
+│
+├── cdd.csv                # Download separately from Kaggle
+├── fraud_detection.ipynb
+├── README.md
+└── requirements.txt
+```
 
 ## Machine Learning Approach
 
